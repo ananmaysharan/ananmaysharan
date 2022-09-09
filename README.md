@@ -1,5 +1,9 @@
-- 👋 Hi, I’m Ananmay :) I'm a 4th year student studying Human Geography and Computer Science at the University of Toronto.
+- Hi, I’m Ananmay :) I'm a 4th year student studying Human Geography and Computer Science at the University of Toronto.
 - I'm a designer and creative focused on building products at the intersection of arts and tech.
+- In my free time, you can find me playing soccer, cooking or finding new music.
+
+🧿🌳💿
+💌✨🍅
 
 
 <!---
