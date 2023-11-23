@@ -1,7 +1,7 @@
 ### About
 
 - Hi, I’m Ananmay 👋
-- I currently work as a GIS Data Analyst and Developer at the [Canadian Urban Institute](https://canurb.org/).
+- I currently work as a GIS Data Analyst and Developer at the [Canadian Urban Institute](https://github.com/canadianurbaninstitute).
 - I recently graduated from the University of Toronto, studying Human Geography, GIS and Computer Science.
 - In my free time, you can find me playing soccer, cooking or finding new music.
 
